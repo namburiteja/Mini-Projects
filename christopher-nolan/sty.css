@@ -1,0 +1,66 @@
+body
+{
+    background-image: url(./17.christopher-nolan.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+div
+{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+.lion
+{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+p:hover
+{
+    color: red;
+    
+}
+.darkni
+{
+    color: white;
+}
+button{
+    color: black;
+}
+button a{
+    text-decoration: none;
+}
+.darkni,.inter,.thepre
+{
+    padding-right: 150px;
+}
+h2
+{
+    color: rgb(133, 194, 245);
+}
+.abtchris
+{
+    color: white;
+}
+div .abtchris{
+    margin-top: 100px;
+    margin-left: 550px;
+}
+div button
+{
+    text-align: center;
+}
+.lion align-self:hover
+{
+    color: red;
+}
+.lion ul
+{
+    position: relative;
+    display: inline-block;
+}
+marquee
+{
+    color:rgb(133, 194, 245);
+}
