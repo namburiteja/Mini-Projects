@@ -1,4 +1,4 @@
-# Christopher Nolan Website 🎬
+# Christopher Nolan Website 🎬 - (https://namburiteja.github.io/Mini-Projects/christopher-nolan/)
 
 This is a simple **HTML & CSS based website** dedicated to the legendary filmmaker **Christopher Nolan**.  
 It showcases some of his most iconic movies, their details, and quick links to learn more.
